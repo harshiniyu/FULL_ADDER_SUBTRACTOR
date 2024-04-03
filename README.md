@@ -66,7 +66,7 @@ RegisterNumber:212223240050
 */
 
 ## Full_adder
-module fulladd_top(a,b,cin,sum,carry);
+```module fulladd_top(a,b,cin,sum,carry);
 input a,b,cin;
 output sum,carry;
 wire w1,w2,w3,w4;       
@@ -79,8 +79,9 @@ and(w4,cin,a);
 
 or(carry,w2,w3,w4);
 endmodule 
-
+```
 ## Full_subtractor
+```
 module fullsub_top(a,b,Bin,BO,DIFF);
 input a,b,Bin;
 output BO,DIFF;
@@ -88,9 +89,7 @@ assign DIFF = a ^ b ^ Bin;
   assign BO = (a & b) | ((a ^ b) & Bin);
 endmodule
 
-
-Developed by: VARSHA A
-RegisterNumber: 212223220121
+```
 **RTL Schematic**
 ![image](https://github.com/harshiniyu/FULL_ADDER_SUBTRACTOR/assets/144979786/2c576662-24a1-414e-8d4c-a4b2129c0c88)
 
