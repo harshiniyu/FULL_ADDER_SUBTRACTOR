@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+![image](https://github.com/harshiniyu/FULL_ADDER_SUBTRACTOR/assets/144979786/dd9360ae-a3e3-4aa9-8860-17fd4cc2edaa)# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -98,7 +98,9 @@ FULL ADDER
 ![image](https://github.com/harshiniyu/FULL_ADDER_SUBTRACTOR/assets/144979786/42f21519-6aa6-4cba-a899-37f130a40ec9)
 
 FULL SUBTRACTOR
-![Uploading image.png…]()
+![image](https://github.com/harshiniyu/FULL_ADDER_SUBTRACTOR/assets/144979786/3d810e7a-c6ae-4345-8b1a-651d881e82b1)
+
+
 
 **Result:**
 
