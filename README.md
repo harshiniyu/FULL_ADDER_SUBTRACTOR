@@ -1,5 +1,3 @@
-![image](https://github.com/harshiniyu/FULL_ADDER_SUBTRACTOR/assets/144979786/dd9360ae-a3e3-4aa9-8860-17fd4cc2edaa)# FULL_ADDER_SUBTRACTOR
-
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
